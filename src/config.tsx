@@ -20,8 +20,8 @@ export const baseConfig = {
     <>
       <span>
         © MIT {new Date().getFullYear()}, Made with ❤️ by {""}
-        <a href="https://github.com/mrtzdev" target="_blank" rel="noreferrer">
-          Mrtzdev
+        <a href="https://github.com/sdobhal369" target="_blank" rel="noreferrer">
+          Shubham Dobhal
         </a>
       </span>
     </>
