@@ -2,8 +2,6 @@ import React from "react";
 import { View, Heading, ScrollView } from "@aws-amplify/ui-react";
 import UsersTable from "./UsersTable";
 
-// const demoUsers = [{ name: "hello" }, { name: "hello" }];
-
 const dataUsers = [
   {
     id: 1,

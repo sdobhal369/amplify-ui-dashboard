@@ -20,9 +20,9 @@ const ProfileHeader = (props: ProfileHeaderProps) => {
         </div>
         <div className="profile-header-text">
           <Text variation="primary" fontWeight={600} fontSize="18px">
-            Clark Mathews
+            Shubham Dobhal
           </Text>
-          <Text variation="tertiary">clarkmathews@gmail.com</Text>
+          <Text variation="tertiary">admin@gmail.com</Text>
         </div>
       </Flex>
     </>

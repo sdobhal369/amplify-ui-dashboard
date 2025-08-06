@@ -11,25 +11,25 @@ const ProfileInformation = () => {
         <Text variation="tertiary" fontWeight="600">
           Full Name:
         </Text>
-        <Text variation="tertiary">Clark Mathews</Text>
+        <Text variation="tertiary">Shubham Dobhal</Text>
       </Flex>
       <Flex>
         <Text variation="tertiary" fontWeight="600">
           Phone:
         </Text>
-        <Text variation="tertiary">(44) 123 1234 123</Text>
+        <Text variation="tertiary">(91) 123 456 789</Text>
       </Flex>
       <Flex>
         <Text variation="tertiary" fontWeight="600">
           Email:
         </Text>
-        <Text variation="tertiary">clarkmathews@gmail.com</Text>
+        <Text variation="tertiary">admin@gmail.com</Text>
       </Flex>
       <Flex>
         <Text variation="tertiary" fontWeight="600">
           Location:
         </Text>
-        <Text variation="tertiary">United States</Text>
+        <Text variation="tertiary">India</Text>
       </Flex>
       <div className="profile-card-edit">
         <Button marginLeft="auto">Edit</Button>
